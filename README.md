@@ -29,3 +29,10 @@ Proudly self-taught full stack web developer making things happen one...
 ```
 console.log("At a time")
 ```
+
+### Behind the scenes
+
+- :ambulance: Paramedic for nearly 10 years
+- :taurus: Food lover like you can't image
+- :two_women_holding_hands: Happily ever after
+- :baby: Mom of a teenager boy
