@@ -4,6 +4,7 @@
 Aryse Pagano :tropical_fish:
 </h1>
 
+<span width="500" align="center">
 ![](https://img.shields.io/badge/Gen-HTML-ff69b4)
 ![](https://img.shields.io/badge/Gen-CSS-ff69b4)
 ![](https://img.shields.io/badge/Gen-JS-ff69b4)
@@ -15,3 +16,4 @@ Aryse Pagano :tropical_fish:
 ![](https://img.shields.io/badge/Back-EJS-ff69b4)
 ![](https://img.shields.io/badge/Back-NPM-ff69b4)
 ![](https://img.shields.io/badge/Data-MongoDB-ff69b4)
+</span>
