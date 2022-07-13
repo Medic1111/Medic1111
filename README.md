@@ -65,9 +65,9 @@ warning You don't appear to have an internet connection. Try the --offline flag 
 info There appears to be trouble with your network connection.
 ...
 
-npm i now-i-have-a-pc
-
+npm i now-i-have-a-pc-and-internet
 touch index.html
+
 <h1>Sept 11 2021</h1>
 <h2>The journey begins</h2>
 
