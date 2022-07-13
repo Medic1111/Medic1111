@@ -36,3 +36,4 @@ console.log("At a time")
 - :taurus: Food lover like you can't image
 - :two_women_holding_hands: Happily ever after
 - :baby: Mom of a teenager boy
+- :surfer: Ocean lover
