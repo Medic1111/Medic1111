@@ -71,4 +71,20 @@ touch index.html
 <h1>Sept 11 2021</h1>
 <h2>The journey begins</h2>
 
+console.log('Hello World!');
+
+let goal = "Live aboard sailboat and have time with the family";
+
+let work = "Weird full time schedule";
+
+let currentConditionPromising = false;
+
+const tech = [bash, html,css,js, node, npm, express, reactjs, redux, nextjs, mongodb, postgres, agile, scrum, kanban];
+
+const brain = [];
+
+const solutionSteps =(tech)=> {
+ return tech.forEach((item)=> brain.push(item)
+ };
+
 ```
