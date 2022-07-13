@@ -50,9 +50,9 @@ console.log("At a time")
 
 ### Then what
 
-> Then I went to the movies and watched a movie called Free Guy. Its about a video game in which the main character is basically... human? To help him survive the game, real world developers code in real time altering the game "world"
+> Then I went to the movies to watch "Free Guy". Its about a video game in which the main character is basically... human? To help him survive the game, real world developers code in real time altering the game "world"
 
-> :raising_hand: What's with that coding thing???
+> :raising_hand: What's with that coding thing??? :raising_hand:
 
 ### That coding thing
 
