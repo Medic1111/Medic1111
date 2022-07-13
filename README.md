@@ -4,4 +4,4 @@
 Aryse Pagano :tropical_fish:
 </h1>
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Gen-HTML-ff69b4)
