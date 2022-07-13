@@ -5,12 +5,13 @@ Aryse Pagano :tropical_fish:
 <h2 align="center">
 Currently featuring:
 </h2>
-
+<span>
 <a href="https://github.com/Medic1111/PORTAL-ZONE-MY-PORTAL-v2" target="_blank">Portal-Zone</a>
 
 <a href="https://github.com/Medic1111/FOOD-QR" target="_blank">Food-QR</a>
 
 <a href="https://github.com/Medic1111/MONSTERA-SHOP-MERN-STRIPE" target="_blank">Monstera-Shop</a>
+</span>
 
 <!-- [Food-Qr](https://github.com/Medic1111/FOOD-QR) -->
 
