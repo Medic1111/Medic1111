@@ -37,3 +37,9 @@ console.log("At a time")
 - :two_women_holding_hands: Happily ever after
 - :baby: Mom of a teenager boy
 - :surfer: Ocean lover
+
+### Then what
+
+> Then I went to the movies and watched a movie called Free Guy. Its about a video game in which the main character is basically... human? To help him survive the game, real developer code in real time altering the game "world"
+
+> What's with that coding thing???
