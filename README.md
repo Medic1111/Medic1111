@@ -87,4 +87,6 @@ const solutionSteps =(tech)=> {
  return tech.forEach((item)=> brain.push(item)
  };
 
+{brain.length >= tech.length && <SuccessComp hustle ={!currentConditionPromising} feedback={"Having a blast in this journey!"}>}
+
 ```
