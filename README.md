@@ -1,9 +1,10 @@
-<a href="http://www.pagano.dev" target="_blank"><img align="center" src="./ocean.jpg" width="900" /></a>
-
 <h1 align="center">
 Aryse Pagano :tropical_fish:
 </h1>
 
+<a href="http://www.pagano.dev" target="_blank"><img align="center" src="./ocean.jpg" width="900" /></a>
+
+<hr/>
 ![](https://img.shields.io/badge/Gen-HTML-ff69b4)
 ![](https://img.shields.io/badge/Gen-CSS-ff69b4)
 ![](https://img.shields.io/badge/Gen-JS-ff69b4)
