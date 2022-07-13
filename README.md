@@ -2,6 +2,16 @@
 Aryse Pagano :tropical_fish:
 </h1>
 
+<h2 align="center">
+Currently featuring:
+</h2>
+
+[Portal-Zone](https://github.com/Medic1111/PORTAL-ZONE-MY-PORTAL-v2)
+
+[Food-Qr](https://github.com/Medic1111/FOOD-QR)
+
+[Monstera-Shop](https://github.com/Medic1111/MONSTERA-SHOP-MERN-STRIPE)
+
 <a href="http://www.pagano.dev" target="_blank"><img align="center" src="./ocean.jpg" width="900" /></a>
 
 <hr/>
