@@ -23,5 +23,9 @@ Aryse Pagano :tropical_fish:
 [PORTFOLIO](http://pagano.dev)
 
 <h2 align="center">
-Proudly self-taught full stack web developer making things happen one ```console.log("At a time")```
+Proudly self-taught full stack web developer making things happen one... 
 </h2>
+
+```
+console.log("At a time")
+```
