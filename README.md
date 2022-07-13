@@ -18,4 +18,10 @@ Aryse Pagano :tropical_fish:
 ![](https://img.shields.io/badge/Back-NPM-ff69b4)
 ![](https://img.shields.io/badge/Data-MongoDB-ff69b4)
 
+<hr/>
+
 [PORTFOLIO](http://pagano.dev)
+
+<h2 align="center">
+Proudly self-taught full stack web developer making things happen one ```console.log("At a time")```
+</h2>
