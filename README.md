@@ -111,4 +111,4 @@ const solutionSteps =(tech)=> {
 
 ### Current Result:
 
-![Gif of Mario Growing](https://media.giphy.com/media/lYiQWU9xMJrBsb2RHX/giphy.gif)
+![Gif of Mario Growing](https://media.giphy.com/media/PTFRmGOgiPUS4/giphy.gif)
