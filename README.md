@@ -109,6 +109,6 @@ const solutionSteps =(tech)=> {
 
 ```
 
-### Current Result:
+### Current Feel:
 
-![Gif of Mario Growing](https://media.giphy.com/media/PTFRmGOgiPUS4/giphy.gif)
+![Gif of Kid winning](https://giphy.com/clips/celebration-win-fortnite-9Tnzp6mvFMibjyYA1v)
