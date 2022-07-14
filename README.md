@@ -108,3 +108,7 @@ const solutionSteps =(tech)=> {
 {brain.length >= tech.length && <SuccessComp hustle ={!currentConditionPromising} feedback={"Having a blast in this journey!"}>}
 
 ```
+
+### Wrong Advice:
+
+![Img of gif](https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif)
