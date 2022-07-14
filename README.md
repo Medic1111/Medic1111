@@ -79,13 +79,31 @@ let work = "Weird full time schedule";
 
 let currentConditionPromising = false;
 
-const tech = [bash, html,css,js, node, npm, express, reactjs, redux, nextjs, mongodb, postgres, agile, scrum, kanban];
+const tech = [
+  "bash",
+  "html",
+  "css",
+  "js",
+  "node",
+  "npm",
+  "express",
+  "reactjs",
+  "redux",
+  "nextjs",
+  "mongodb",
+  "postgres",
+  "agile",
+  "scrum",
+  "kanban",
+];
 
 const brain = [];
 
 const solutionSteps =(tech)=> {
  return tech.forEach((item)=> brain.push(item)
  };
+
+ solutionSteps(tech)
 
 {brain.length >= tech.length && <SuccessComp hustle ={!currentConditionPromising} feedback={"Having a blast in this journey!"}>}
 
