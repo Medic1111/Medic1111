@@ -109,6 +109,6 @@ const solutionSteps =(tech)=> {
 
 ```
 
-### Wrong Advice:
+### Current Result:
 
-![Img of gif](https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif)
+![Gif of Mario Growing](https://media.giphy.com/media/10p3YSZ2Pycp56/giphy.gif)
