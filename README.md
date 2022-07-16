@@ -115,4 +115,4 @@ const solutionSteps =(tech)=> {
 
 ### STATS
 
-[![medic1111's GitHub stats](https://github-readme-stats.vercel.app/api?username=medic11111)](https://github.com/medic11111/github-readme-stats)
+[![Medic1111's GitHub stats](https://github-readme-stats.vercel.app/api?username=Medic11111)](https://github.com/medic11111/github-readme-stats)
