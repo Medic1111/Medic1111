@@ -112,3 +112,7 @@ const solutionSteps =(tech)=> {
 ### Current Feel:
 
 ![Pokemon evolving](https://media.giphy.com/media/u1k1kpDZSw5sA/giphy.gif)
+
+### STATS
+
+[![medic1111's GitHub stats](https://github-readme-stats.vercel.app/api?username=medic11111)](https://github.com/medic11111/github-readme-stats)
