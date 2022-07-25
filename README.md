@@ -27,7 +27,6 @@ Currently featuring:
 ![](https://img.shields.io/badge/Back-NodeJs-ff69b4)
 ![](https://img.shields.io/badge/Back-Express-ff69b4)
 ![](https://img.shields.io/badge/Back-EJS-ff69b4)
-![](https://img.shields.io/badge/Back-NPM-ff69b4)
 ![](https://img.shields.io/badge/Data-MongoDB-ff69b4)
 
 <hr/>
