@@ -2,6 +2,8 @@
 Aryse Pagano :tropical_fish:
 </h1>
 
+[PORTFOLIO](http://pagano.dev)
+
 <a href="http://www.pagano.dev" target="_blank"><img align="center" src="./ocean.jpg" width="900" /></a>
 
 <h2 align="center">
@@ -30,8 +32,6 @@ Currently featuring:
 ![](https://img.shields.io/badge/Data-MongoDB-ff69b4)
 
 <hr/>
-
-[PORTFOLIO](http://pagano.dev)
 
 <h2 align="center">
 Proudly self-taught full stack web developer making things happen one... 
