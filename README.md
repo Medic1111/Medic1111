@@ -2,6 +2,8 @@
 Aryse Pagano :tropical_fish:
 </h1>
 
+![Ocean picture](ocean.jpg)
+
 ## ATTENTION:
 
 > Because of recent changes to Heroku's platform, unfortunately the live demos of my full stack projects (NEXT.JS Excluded) are not live. I am currently working on it, meanwhile feel free to check the repos and run locally. =)
