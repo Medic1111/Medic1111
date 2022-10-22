@@ -2,6 +2,10 @@
 Aryse Pagano :tropical_fish:
 </h1>
 
+## ATTENTION:
+
+> Because of recent changes to Heroku's platform, unfortunately the live demos of my full stack projects (NEXT.JS Excluded) are not live. I am currently working on it, meanwhile feel free to check the repos and run locally. =)
+
 [PORTFOLIO](http://pagano.dev)
 
 <a href="http://www.pagano.dev" target="_blank"><img align="center" src="./ocean.jpg" width="900" /></a>
