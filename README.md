@@ -4,7 +4,7 @@ Aryse Pagano :tropical_fish:
 
 ## ATTENTION:
 
-> Because of recent changes to Heroku's platform, unfortunately the live demos of my full stack projects (NEXT.JS Excluded) are not live. I am currently working on it, meanwhile feel free to check the repos and run locally. =)
+> Because of recent changes to Heroku's platform, unfortunately SOME live demos of my full stack projects are not live yet. I am currently working on migrating them all, meanwhile feel free to check the repos and run locally if a live demo link is not available =)
 
 [PORTFOLIO](http://pagano.dev)
 
@@ -14,13 +14,13 @@ Aryse Pagano :tropical_fish:
 Currently featuring:
 </h2>
 
-<a href="https://github.com/Medic1111/PORTAL-ZONE-MY-PORTAL-v2" target="_blank">Portal-Zone</a>
-
 <a href="https://github.com/Medic1111/FOOD-QR-TS" target="_blank">Food-QR-TS</a>
 
-<a href="https://github.com/Medic1111/MOOVEES-APP" target="_blank">Moovess-App</a>
+<a href="https://github.com/Medic1111/CRYPTAWARE-FULLSTACK-TS" target="_blank">Cryptaware</a>
 
-<a href="https://github.com/Medic1111/MONSTERA-SHOP-MERN-STRIPE" target="_blank">Monstera-Shop</a>
+<a href="https://github.com/Medic1111/PORTAL-ZONE-MY-PORTAL-v2" target="_blank">Portal-Zone</a>
+
+<a href="https://github.com/Medic1111/MOOVEES-APP" target="_blank">Moovess-App</a>
 
 <hr/>
 
