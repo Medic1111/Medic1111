@@ -12,6 +12,8 @@ Currently featuring:
 
 <a href="https://github.com/jackieodonnell/PayBack-App" target="_blank">Payback-App</a>
 
+<a href="https://github.com/Medic1111/NOMAD-FULL-STACK-TS" target="_blank">Nomad-me</a>
+
 <a href="https://github.com/Medic1111/FOOD-QR-TS" target="_blank">Food-QR-TS</a>
 
 <a href="https://github.com/Medic1111/CRYPTAWARE-FULLSTACK-TS" target="_blank">Cryptaware</a>
