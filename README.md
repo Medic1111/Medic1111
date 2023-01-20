@@ -16,10 +16,6 @@ Currently featuring:
 
 <a href="https://github.com/Medic1111/FOOD-QR-TS" target="_blank">Food-QR-TS</a>
 
-<a href="https://github.com/Medic1111/CRYPTAWARE-FULLSTACK-TS" target="_blank">Cryptaware</a>
-
-<a href="https://github.com/Medic1111/PORTAL-ZONE-MY-PORTAL-v2" target="_blank">Portal-Zone</a>
-
 <hr/>
 
 ![](https://img.shields.io/badge/Gen-HTML-ff69b4)
