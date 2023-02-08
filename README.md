@@ -10,11 +10,13 @@ Aryse Pagano :tropical_fish:
 Currently featuring:
 </h2>
 
-<a href="https://github.com/Medic1111/NOMAD-ME-NO-TS" target="_blank">Nomad-me</a>
+<a href="https://github.com/Medic1111/M11-STUDIO-REDUX" target="_blank">m11-studio</a>
+
+<a href="https://github.com/Medic1111/NOMAD-ME-NO-TS" target="_blank">Nomad-Me</a>
+
+<a href="https://github.com/Medic1111/FOOD-QR-TS" target="_blank">Food-Qr</a>
 
 <a href="https://github.com/jackieodonnell/PayBack-App" target="_blank">Payback-App</a>
-
-<a href="https://github.com/Medic1111/FOOD-QR-TS" target="_blank">Food-QR-TS</a>
 
 <hr/>
 
@@ -23,10 +25,11 @@ Currently featuring:
 ![](https://img.shields.io/badge/Gen-JS-ff69b4)
 ![](https://img.shields.io/badge/Gen-NPM-ff69b4)
 ![](https://img.shields.io/badge/Front-ReactJS-ff69b4)
-![](https://img.shields.io/badge/Front-Next.JS-ff69b4)
+![](https://img.shields.io/badge/Front-TypeScript-ff69b4)
+![](https://img.shields.io/badge/Front-React-Redux-ff69b4)
+![](https://img.shields.io/badge/Front-Redux-Toolkit-ff69b4)
 ![](https://img.shields.io/badge/Back-NodeJs-ff69b4)
 ![](https://img.shields.io/badge/Back-Express-ff69b4)
-![](https://img.shields.io/badge/Back-EJS-ff69b4)
 ![](https://img.shields.io/badge/Data-MongoDB-ff69b4)
 
 <hr/>
