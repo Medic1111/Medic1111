@@ -31,6 +31,8 @@ Currently featuring:
 ![](https://img.shields.io/badge/Back-NodeJs-ff69b4)
 ![](https://img.shields.io/badge/Back-Express-ff69b4)
 ![](https://img.shields.io/badge/Data-MongoDB-ff69b4)
+![](https://img.shields.io/badge/Data-Jest-ff69b4)
+![](https://img.shields.io/badge/Data-Supertest-ff69b4)
 
 <hr/>
 
