@@ -121,6 +121,8 @@ const solutionSteps =(tech)=> {
 
 [![Medic1111's GitHub stats](https://github-readme-stats.vercel.app/api?username=Medic1111&show_icons=true&theme=radical)](https://github.com/medic1111/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Medic1111)](https://github.com/Medic1111/github-readme-stats)
+
 #### Visitor count:
 
 ![Visitor Count](https://profile-counter.glitch.me/medic1111/count.svg)
