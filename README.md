@@ -43,6 +43,9 @@ Proudly self-taught full stack web developer making things happen one...
 ```
 console.log("At a time")
 ```
+- [x] Developer
+- [x] Mentor @Chingu.io
+- [x] Teacher's Assistance @launchCode
 
 ### Behind the scenes
 
@@ -52,66 +55,7 @@ console.log("At a time")
 - :baby: Mom of a teenager boy
 - :surfer: Ocean lover
 
-### Then what
 
-> Then I went to the movies to watch "Free Guy". Its about a video game in which the main character is basically... human? To help him survive the game, real world developers code in real time altering the game "world"
-
-> :raising_hand: What's with that coding thing??? :raising_hand:
-
-### That coding thing
-
-```
-npm i how-to-google-that-coding-thing
-...
-warning You don't appear to have an internet connection. Try the --offline flag to use the cache for registry queries.
-[1/4] 🔍  Resolving packages...
-[2/4] 🚚  Fetching packages...
-info There appears to be trouble with your network connection.
-...
-
-npm i now-i-have-a-pc-and-internet
-touch index.html
-
-<h1>Sept 11 2021</h1>
-<h2>The journey begins</h2>
-
-console.log('Hello World!');
-
-let goal = "Live aboard sailboat and have time with the family";
-
-let work = "Weird full time schedule";
-
-let currentConditionPromising = false;
-
-const tech = [
-  "bash",
-  "html",
-  "css",
-  "js",
-  "node",
-  "npm",
-  "express",
-  "reactjs",
-  "redux",
-  "nextjs",
-  "mongodb",
-  "postgres",
-  "agile",
-  "scrum",
-  "kanban",
-];
-
-const brain = [];
-
-const solutionSteps =(tech)=> {
- return tech.forEach((item)=> brain.push(item)
- };
-
- solutionSteps(tech)
-
-{brain.length >= tech.length && <SuccessComp hustle ={!currentConditionPromising} feedback={"Having a blast in this journey!"}>}
-
-```
 
 ### Current Feel:
 
