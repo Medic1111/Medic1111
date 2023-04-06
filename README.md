@@ -55,12 +55,6 @@ console.log("At a time")
 - :baby: Mom of a teenager boy
 - :surfer: Ocean lover
 
-
-
-### Current Feel:
-
-![Pokemon evolving](https://media.giphy.com/media/u1k1kpDZSw5sA/giphy.gif)
-
 ### STATS
 
 [![Medic1111's GitHub stats](https://github-readme-stats.vercel.app/api?username=Medic1111&show_icons=true&theme=radical)](https://github.com/medic1111/github-readme-stats)
@@ -72,3 +66,7 @@ console.log("At a time")
 ![Visitor Count](https://profile-counter.glitch.me/medic1111/count.svg)
 
 <!-- ![](https://komarev.com/ghpvc/?username=medic1111&color=ff69b4) -->
+
+### Current Feel:
+
+![Pokemon evolving](https://media.giphy.com/media/u1k1kpDZSw5sA/giphy.gif)
