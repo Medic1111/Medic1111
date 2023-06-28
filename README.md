@@ -14,10 +14,6 @@ Currently featuring:
 
 <a href="https://github.com/Medic1111/NOMAD-ME-NO-TS" target="_blank">Nomad-Me</a>
 
-<a href="https://github.com/Medic1111/FOOD-QR-TS" target="_blank">Food-Qr</a>
-
-<a href="https://github.com/jackieodonnell/PayBack-App" target="_blank">Payback-App</a>
-
 <hr/>
 
 ![](https://img.shields.io/badge/Gen-HTML-ff69b4)
@@ -37,13 +33,13 @@ Currently featuring:
 <hr/>
 
 <h2 align="center">
-Proudly self-taught full stack web developer making things happen one... 
+Proudly self-taught full stack software engineer making things happen one... 
 </h2>
 
 ```
 console.log("At a time")
 ```
-- [x] Developer
+- [x] Software Engineer
 - [x] Mentor @Chingu.io
 - [x] Teacher's Assistance @launchCode
 
